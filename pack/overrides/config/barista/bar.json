@@ -1,0 +1,18 @@
+{
+  "moduleList": [
+    {
+      "name": "icon",
+      "display": true,
+      "context": "icon.png"
+    },
+    {
+      "name": "text",
+      "display": true,
+      "context": "Annwn Unchained"
+    },
+    {
+      "name": "property",
+      "display": true
+    }
+  ]
+}

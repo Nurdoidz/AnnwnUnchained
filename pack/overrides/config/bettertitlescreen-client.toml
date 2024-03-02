@@ -1,7 +1,7 @@
 
 ["custom text"]
 	#Insert the custom title screen text you want here (supports multiple lines)
-	text = ["§4§lAnnwn Unchained §rv0.2.0"]
+	text = ["§4§lAnnwn Unchained §rv0.2.0 (Pre-Release)"]
 
 [versions]
 	#Show which version of Minecraft the client is currently running.

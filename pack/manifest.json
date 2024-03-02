@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Annwn Unchained",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Nurdoidz",
   "files": [
     {
@@ -90,11 +90,6 @@
       "required": true
     },
     {
-      "projectID": 242998,
-      "fileID": 4585754,
-      "required": true
-    },
-    {
       "projectID": 243121,
       "fileID": 5093415,
       "required": true
@@ -102,11 +97,6 @@
     {
       "projectID": 245755,
       "fileID": 4962610,
-      "required": true
-    },
-    {
-      "projectID": 246391,
-      "fileID": 4750298,
       "required": true
     },
     {
@@ -172,11 +162,6 @@
     {
       "projectID": 291874,
       "fileID": 4761603,
-      "required": true
-    },
-    {
-      "projectID": 297039,
-      "fileID": 5133146,
       "required": true
     },
     {
@@ -427,6 +412,11 @@
     {
       "projectID": 480006,
       "fileID": 4769514,
+      "required": true
+    },
+    {
+      "projectID": 485681,
+      "fileID": 5109406,
       "required": true
     },
     {
@@ -695,6 +685,11 @@
       "required": true
     },
     {
+      "projectID": 872088,
+      "fileID": 5148082,
+      "required": true
+    },
+    {
       "projectID": 896746,
       "fileID": 5142018,
       "required": true
@@ -707,6 +702,11 @@
     {
       "projectID": 901344,
       "fileID": 5055744,
+      "required": true
+    },
+    {
+      "projectID": 912097,
+      "fileID": 4909027,
       "required": true
     },
     {

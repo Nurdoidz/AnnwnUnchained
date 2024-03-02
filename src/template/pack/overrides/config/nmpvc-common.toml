@@ -1,0 +1,5 @@
+modpack-versions = "<!-- VERSION -->"
+#This should be your Modpacks Curseforge Page, not the Versions page (this is not synced to the client if different on server)
+curseforge-url = ""
+#This should be your Modpacks Modrinth Page, not the Versions page (this is not synced to the client if different on server)
+modrinth-url = ""

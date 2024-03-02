@@ -42,9 +42,9 @@ Write-Host "$(TimeCode) Sorted mod list."
 # Write-Host "$(TimeCode) Generated README from template."
 
 [System.IO.Directory]::CreateDirectory('.\build\') | Out-Null
-Write-Debug "$(TimeCode) Created directory: build"
+Write-Debug "$(TimeCode) Created directory: $(Resolve-Path .\build\)"
 [System.IO.Directory]::CreateDirectory('.\build\artifact\') | Out-Null
-Write-Debug "$(TimeCode) Created directory: build/artifact"
+Write-Debug "$(TimeCode) Created directory: $(Resolve-Path .\build\artifact\)"
 
 if ($null -eq (Get-Command '7z' -ErrorAction SilentlyContinue)) {
     Write-Error "$(TimeCode) `"7z`" was not found in PATH."

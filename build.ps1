@@ -89,8 +89,8 @@ rg '<!-- ([A-Z]+) -->' .\src\template\ --files-with-matches | ForEach-Object {
     Write-Host "$(TimeCode) Generated from template: $(Resolve-Path $_.Replace('src\template\', ''))"
 }
 
-Remove-Item -Force .\build\artifact\*.zip
 $ArtifactName = "$($Manifest.name)-v$($Manifest.version)".Replace(' ', '-')
+Remove-Item -Force "$(Resolve-Path .\build\artifact\)$ArtifactName.zip"
 7z u "$(Resolve-Path .\build\artifact\)$ArtifactName.zip" "$(Resolve-Path .\pack\)*" | Out-Null
 Write-Host "$(TimeCode) Created artifact: $(Resolve-Path .\build\artifact\)$ArtifactName.zip"
 

@@ -33,6 +33,7 @@ Write-Host "$(TimeCode) Executing task: build"
 $Modlist = [System.IO.File]::ReadLines("$(Resolve-Path .\pack\)modlist.html") | Sort-Object
 $Modlist[0] = '<ul>'
 $Modlist[$Modlist.Length - 1] = '</ul>'
+$Modlist = $Modlist -join("`n")
 $Modlist > .\pack\modlist.html
 Write-Host "$(TimeCode) Sorted mod list."
 

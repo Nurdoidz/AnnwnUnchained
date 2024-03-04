@@ -94,6 +94,7 @@ Annwn Unchained is a carefully-crafted Minecraft modpack for [CurseForge](https:
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod">MrCrayfish's Furniture Mod (by MrCrayfish)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/mysterious-mountain-lib">Mysterious Mountain Lib (by sz0999312)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/naturalist">Naturalist (by Starfish_Studios)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/natures-compass">Nature's Compass (by Chaosyr)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/neat">Neat (by Vazkii)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/nethers-delight">Nether's Delight (by lumpazl)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/nyfs-modpack-version-check">Nyf's Modpack Version Check (by Nyfaria)</a></li>

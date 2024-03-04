@@ -1,3 +1,9 @@
+## v0.4.0 (Pre-Release)
+
+### Added
+
+- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
+
 ## v0.3.0 (Pre-Release)
 
 ### Added

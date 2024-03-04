@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Annwn Unchained",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "author": "Nurdoidz",
   "files": [
     {
@@ -112,6 +112,11 @@
     {
       "projectID": 250898,
       "fileID": 4945387,
+      "required": true
+    },
+    {
+      "projectID": 252848,
+      "fileID": 4712189,
       "required": true
     },
     {

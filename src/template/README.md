@@ -1,4 +1,7 @@
-<h1 align="center"><img width=240 alt="Logo" src="https://raw.githubusercontent.com/Nurdoidz/AnnwnUnchained/master/img/square-logo.png"/><br>Annwn Unchained</h1>
+<h1 align="center"><img width=240 alt="Logo" src="https://raw.githubusercontent.com/Nurdoidz/AnnwnUnchained/master/img/square-logo.png"/>
+<br>Annwn Unchained
+<br><a href="https://www.curseforge.com/minecraft/modpacks/annwn-unchained"><img align="center" src="https://cf.way2muchnoise.eu/annwn-unchained.svg" alt="CurseForge downloads"></a>
+</h1>
 
 Annwn Unchained is a carefully-crafted Minecraft modpack for [CurseForge](https://www.curseforge.com/) in the theme of steampunk and medieval, in a pre-industrial era.
 

@@ -137,6 +137,7 @@ Annwn Unchained is a carefully-crafted Minecraft modpack for [CurseForge](https:
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/terrablender">TerraBlender (Forge) (by TheAdubbz)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest">The Twilight Forest (by Benimatic)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/titanium">Titanium (by Buuz135)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/toast-control">Toast Control (by Shadows_of_Fire)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/torchmaster">Torchmaster (by xalcon)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/towns-and-towers">Towns and Towers (by Biban_Auriu)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/travelers-titles">Traveler's Titles (Forge) (by YUNGNICKYOUNG)</a></li>

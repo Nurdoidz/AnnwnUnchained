@@ -3,6 +3,7 @@
 ### Added
 
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
+- [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
 
 ## v0.3.0 (Pre-Release)
 

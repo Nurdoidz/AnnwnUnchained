@@ -26,6 +26,7 @@ Annwn Unchained is a carefully-crafted Minecraft modpack for [CurseForge](https:
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/bookshelf">Bookshelf (by DarkhaxDev)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/botania">Botania (by Vazkii)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/caelus">Caelus API (Forge/NeoForge) (by TheIllusiveC4)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/carry-on">Carry On (by Tschipp)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/chefs-delight-forge">Chef's Delight [Forge] (by redstone3game)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/chisels-bits">Chisels & Bits - For Forge (by AlgorithmX2)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/choicetheorems-overhauled-village">ChoiceTheorem's Overhauled Village (by ChoiceTheorem)</a></li>
@@ -39,11 +40,11 @@ Annwn Unchained is a carefully-crafted Minecraft modpack for [CurseForge](https:
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/construction-wand">Construction Wand (by ThetaDev)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/controlling">Controlling (by Jaredlll08)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/corn-delight">Corn Delight[Forge] (by sz0999312)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks">Crafting Tweaks (by BlayTheNinth)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/crate-delight-forge">Crate Delight (Forge) (by axperty)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails">Create: Steam 'n' Rails (by mattentosh)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/create">Create (by simibubi)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/creativecore">CreativeCore (by CreativeMD)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/creeper-firework">Creeper Firework (by DragonsPlus)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/cristel-lib">Cristel Lib (by Cristelknight)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/cucumber">Cucumber Library (by BlakeBr0)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/curios">Curios API (Forge/NeoForge) (by TheIllusiveC4)</a></li>
@@ -59,9 +60,11 @@ Annwn Unchained is a carefully-crafted Minecraft modpack for [CurseForge](https:
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/functional-storage">Functional Storage (by Buuz135)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures">Fusion (Connected Textures) (by SuperMartijn642)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/geckolib">GeckoLib (by Gecko)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/gravestone-mod">GraveStone Mod (by henkelmax)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons">Ice and Fire: Dragons (by sbom_xela)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft">Immersive Aircraft [Fabric/Forge] (by Conczin)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/immersive-engineering">Immersive Engineering (by BluSunrize)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/immersive-weathering-forge">Immersive Weathering [FORGE] (by OrdanaryMods)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/iron-chests">Iron Chests (by ProgWML6)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks">Iron's Spells 'n Spellbooks (by Iron431)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/item-collectors">Item Collectors (by SuperMartijn642)</a></li>
@@ -103,6 +106,7 @@ Annwn Unchained is a carefully-crafted Minecraft modpack for [CurseForge](https:
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge">Presence Footsteps [Forge] (by Paint_Ninja)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/puzzles-lib">Puzzles Lib [Forge & Fabric] (by Fuzs)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/quark-delight">Quark Delight (by nocubeyt)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/quark-oddities">Quark Oddities (by Vazkii)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/quark">Quark (by Vazkii)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/rechiseled">Rechiseled (by SuperMartijn642)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/redstone-pen">Redstone Pen (by wilechaote)</a></li>
@@ -115,6 +119,7 @@ Annwn Unchained is a carefully-crafted Minecraft modpack for [CurseForge](https:
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/searchables">Searchables (by Jaredlll08)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/selene">Moonlight Lib (by MehVahdJukaar)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/serene-seasons">Serene Seasons (by TheAdubbz)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/simple-backups">Simple Backups (by MelanX)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/simply-backpacks">Simply Backpacks (by Flanks255)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/simply-light-sources">Simply Light Sources (by dragons_solo)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/small-ships">Small Ships [Fabric & Forge] (by talhanation)</a></li>
@@ -134,6 +139,7 @@ Annwn Unchained is a carefully-crafted Minecraft modpack for [CurseForge](https:
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/twilights-flavors-delight">Twilight's Flavors & Delight (by lcy0x1)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/valhelsia-core">Valhelsia Core (by ValhelsiaTeam)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/variant-tools-and-weaponry-more-weapons">Variant Tools and Weaponry - More Weapons (by attila1990)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/vertical-slabs-compat">Vertical Slabs Compat (by MehVahdJukaar)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/waystones">Waystones (by BlayTheNinth)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/william-wythers-overhauled-overworld">William Wythers' Overhauled Overworld (by Cristelknight)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus">Yeetus Experimentus (by Sunekaer)</a></li>

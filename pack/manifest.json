@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Annwn Unchained",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": "Nurdoidz",
   "files": [
     {
@@ -70,13 +70,13 @@
       "required": true
     },
     {
-      "projectID": 233071,
-      "fileID": 4939240,
+      "projectID": 238372,
+      "fileID": 4580940,
       "required": true
     },
     {
-      "projectID": 238372,
-      "fileID": 4580940,
+      "projectID": 238551,
+      "fileID": 4913787,
       "required": true
     },
     {
@@ -91,7 +91,7 @@
     },
     {
       "projectID": 243121,
-      "fileID": 5093415,
+      "fileID": 5151658,
       "required": true
     },
     {
@@ -150,13 +150,18 @@
       "required": true
     },
     {
+      "projectID": 274259,
+      "fileID": 4882500,
+      "required": true
+    },
+    {
       "projectID": 283644,
       "fileID": 5098182,
       "required": true
     },
     {
       "projectID": 287342,
-      "fileID": 4984333,
+      "fileID": 5151228,
       "required": true
     },
     {
@@ -165,8 +170,13 @@
       "required": true
     },
     {
+      "projectID": 301051,
+      "fileID": 5070502,
+      "required": true
+    },
+    {
       "projectID": 303657,
-      "fileID": 5039878,
+      "fileID": 5140771,
       "required": true
     },
     {
@@ -221,7 +231,7 @@
     },
     {
       "projectID": 331936,
-      "fileID": 5075402,
+      "fileID": 5143956,
       "required": true
     },
     {
@@ -321,7 +331,7 @@
     },
     {
       "projectID": 412082,
-      "fileID": 5130597,
+      "fileID": 5147148,
       "required": true
     },
     {
@@ -331,12 +341,12 @@
     },
     {
       "projectID": 419699,
-      "fileID": 5084452,
+      "fileID": 5137938,
       "required": true
     },
     {
       "projectID": 421850,
-      "fileID": 5070641,
+      "fileID": 5147001,
       "required": true
     },
     {
@@ -376,7 +386,7 @@
     },
     {
       "projectID": 450659,
-      "fileID": 5071742,
+      "fileID": 5148122,
       "required": true
     },
     {
@@ -466,7 +476,7 @@
     },
     {
       "projectID": 531761,
-      "fileID": 4943500,
+      "fileID": 5140912,
       "required": true
     },
     {
@@ -510,6 +520,11 @@
       "required": true
     },
     {
+      "projectID": 558439,
+      "fileID": 5127293,
+      "required": true
+    },
+    {
       "projectID": 558998,
       "fileID": 4872892,
       "required": true
@@ -530,8 +545,18 @@
       "required": true
     },
     {
+      "projectID": 583228,
+      "fileID": 5123558,
+      "required": true
+    },
+    {
       "projectID": 583345,
       "fileID": 4925840,
+      "required": true
+    },
+    {
+      "projectID": 592449,
+      "fileID": 5139137,
       "required": true
     },
     {
@@ -576,7 +601,7 @@
     },
     {
       "projectID": 633823,
-      "fileID": 5126217,
+      "fileID": 5149886,
       "required": true
     },
     {
@@ -596,7 +621,7 @@
     },
     {
       "projectID": 637529,
-      "fileID": 4873145,
+      "fileID": 5149512,
       "required": true
     },
     {
@@ -627,6 +652,11 @@
     {
       "projectID": 689238,
       "fileID": 4883003,
+      "required": true
+    },
+    {
+      "projectID": 724387,
+      "fileID": 5022329,
       "required": true
     },
     {
@@ -691,7 +721,7 @@
     },
     {
       "projectID": 896746,
-      "fileID": 5142018,
+      "fileID": 5152939,
       "required": true
     },
     {
@@ -736,7 +766,7 @@
     },
     {
       "projectID": 958291,
-      "fileID": 5123569,
+      "fileID": 5139275,
       "required": true
     },
     {
@@ -751,12 +781,12 @@
     },
     {
       "projectID": 964817,
-      "fileID": 5110934,
+      "fileID": 5152086,
       "required": true
     },
     {
       "projectID": 968868,
-      "fileID": 5078215,
+      "fileID": 5151582,
       "required": true
     }
   ],
